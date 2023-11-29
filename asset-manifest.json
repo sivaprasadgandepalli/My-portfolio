@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sivaprasadgandepalli/my-portfolio/static/css/main.cf55b538.css",
+    "main.js": "/sivaprasadgandepalli/my-portfolio/static/js/main.31c16e36.js",
+    "static/js/787.7da95b79.chunk.js": "/sivaprasadgandepalli/my-portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/my thub pic.jpg": "/sivaprasadgandepalli/my-portfolio/static/media/my thub pic.ffcd0b7d80b938c72e2e.jpg",
+    "static/media/Crm.jpg": "/sivaprasadgandepalli/my-portfolio/static/media/Crm.e5336b1afa3d6c9a80ec.jpg",
+    "static/media/vms.jpg": "/sivaprasadgandepalli/my-portfolio/static/media/vms.21cd0680eaa98e096b07.jpg",
+    "static/media/Siva Resume.pdf": "/sivaprasadgandepalli/my-portfolio/static/media/Siva Resume.6409bfc4cdef7c4e71b6.pdf",
+    "static/media/Rms.jpg": "/sivaprasadgandepalli/my-portfolio/static/media/Rms.cb06d5fa5d10d93fa777.jpg",
+    "index.html": "/sivaprasadgandepalli/my-portfolio/index.html",
+    "main.cf55b538.css.map": "/sivaprasadgandepalli/my-portfolio/static/css/main.cf55b538.css.map",
+    "main.31c16e36.js.map": "/sivaprasadgandepalli/my-portfolio/static/js/main.31c16e36.js.map",
+    "787.7da95b79.chunk.js.map": "/sivaprasadgandepalli/my-portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf55b538.css",
+    "static/js/main.31c16e36.js"
+  ]
+}
